@@ -50,8 +50,7 @@
               "RelativeToolTip": "array.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-31T09:35:19.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T09:35:19.326Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "memaddr.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-07-31T09:22:06.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T09:22:06.21Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "array.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-07-31T09:19:33.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T09:19:33.121Z"
             },
             {
               "$type": "Document",
@@ -87,7 +84,7 @@
               "RelativeDocumentMoniker": "data_type.c",
               "ToolTip": "D:\\Software Engineering\\C\\C\\Project1\\data_type.c",
               "RelativeToolTip": "data_type.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-07-31T09:15:39.643Z",
               "EditorCaption": ""
@@ -102,8 +99,7 @@
               "RelativeToolTip": "calc.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-07-31T09:01:30.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T09:01:30.036Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "hello.c",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-07-31T08:53:17.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T08:53:17.528Z"
             }
           ]
         }
